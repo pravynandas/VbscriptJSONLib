@@ -1,0 +1,15 @@
+{
+	"plugin": {
+		"id": "$your_plugin_folders_\u00f8_name$",
+		"name": "$Your Plugin Readable Name$",
+		"version": "1.0.0",
+		"excel_version_min": "$2003$",
+		"require":{
+			"plugins":[
+				"$dependent plugins$",
+				"$dependent plugins2$"
+			]
+		},
+		"reserve": "test"
+	}
+}
